@@ -1,1 +1,24 @@
-"C:\Users\Juven\OneDrive\Documents\001 Fiches individuelles Foyer\Placide Umba Juvénal\Application CENCO\2026-05-05 Calendrier fr-CD.ics"
+# Liturgical Source – 2026 (v0.2.0)
+
+## Source
+- Provider: GCatholic
+- Calendar: General Roman Calendar (2026)
+- Format: ICS (iCalendar)
+
+## Reference
+- ICS URL: https://gcatholic.org/calendar/ics/2026-en-General-H.ics?v=3
+
+## Integration
+- Used for: v0.2.0 – Liturgical Core (baseline liturgical data)
+- Imported into: LiturgicalDay / Readings references (if available in source)
+- Imported by: (your name / team)
+- Imported at: 2026-01-05 (Africa/Kinshasa)
+
+## Scope & Limits
+- This is a universal (General Roman) baseline calendar.
+- It may not include CENCO/RDC proper celebrations, diocesan propers, or local transfers.
+- Local adaptations will be applied in a later phase (e.g., v0.3.0+).
+
+## Notes
+- Any replacement or override by official CENCO Ordo must keep traceability:
+  - source name, version/date, and change log.
